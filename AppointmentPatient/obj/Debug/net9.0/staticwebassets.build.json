@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LvEtQK/QrI7lSTm9O6Dt2u9g8cm7xxeZBnDfe9/YVz4=",
+  "Source": "AppointmentPatient",
+  "BasePath": "_content/AppointmentPatient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
